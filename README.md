@@ -37,7 +37,7 @@ Untuk menggunakannya perlu untuk mengganti bagian '<company_name>' dengan nama p
 Berdasarkan dataset yang digunakan, maka perusahaan yang dapat diakses yaitu = {AAPL, FB, GOOGL}
 ```
 
-If you want to try it, you can access (copy-paste it) : 
+Jika ingin melihat hasilnya bisa melalui link berikut : 
 - https://capstone-flask-api.herokuapp.com
 - https://capstone-flask-api.herokuapp.com/genre_sale_freq
 - https://capstone-flask-api.herokuapp.com/genre_most_sales
