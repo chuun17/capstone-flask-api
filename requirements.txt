@@ -3,9 +3,9 @@
 # platform: win-64
 argon2-cffi==20.1.0=py38he774522_1
 async_generator==1.10=py_0
-attrs=20.2.0==py_0
+attrs==20.2.0=py_0
 backcall==0.2.0=py_0
-blas=1.0==mkl
+blas==1.0=mkl
 bleach==3.2.1=py_0
 ca-certificates==2020.10.14=0
 certifi==2020.11.8=py38haa95532_0
